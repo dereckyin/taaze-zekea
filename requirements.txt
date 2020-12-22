@@ -1,0 +1,8 @@
+linecache2
+pysqlite3
+cx_Oracle
+keyring
+fastapi
+hypercorn
+pydantic
+uvicorn
